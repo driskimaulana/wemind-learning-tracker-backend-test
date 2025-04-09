@@ -84,7 +84,7 @@ Build a RESTful API that allows:
 | GET    | `/users/:userId/sessions` | List sessions |
 | GET    | `/users/:userId/summary?from=YYYY-MM-DD&to=YYYY-MM-DD` | Duration summary per topic |
 | GET    | `/users/:userId/streak` | Get current streak |
-| GET    | `/users/:userId/insights` | Get insight for dashboard |
+| GET (Optional)    | `/users/:userId/insights` | Get insight for dashboard |
 
 ---
 
@@ -146,7 +146,7 @@ Alex logs 4 sessions:
 }
 ```
 
-#### GET `/users/uuid/insights`
+#### GET `/users/uuid/insights` (Optional)
 ```json
 {
   "currentStreak": 1,
