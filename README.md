@@ -92,7 +92,7 @@ Build a RESTful API that allows:
 
 ## 📘 Example Scenario
 
-Alex logs 4 sessions:
+Declan logs 4 sessions:
 
 | Date       | Topic         | Duration |
 |------------|---------------|----------|
