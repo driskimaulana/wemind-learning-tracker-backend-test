@@ -17,6 +17,8 @@ Welcome to the **WeMind Backend Engineering Challenge**! In this task, you'll bu
 
 ### 📦 Submission Guidelines
 
+[Submission Form](https://forms.gle/Zydo8vLhaK6EENNt9)
+
 - Host your code on a **public GitHub repository** and share the link, **OR** send a `.zip` file of your project.
 - Include a `README.md` file with:
   - Setup instructions (install, run migrations, start server)
